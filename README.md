@@ -10,3 +10,5 @@ For this part of the activity, please visit the [CONTRIBUTING.md](CONTRIBUTING.m
 -  [Manish Kumar Barnwal](https://github.com/imanishbarnwal), It was a great experience interacting with this repository.
 
 -   [Sayan Adhikari](https://github.com/sayan32767/), It's great to gain hands on experience on git and github.
+
+-   [Diptodeep Biswas](https://github.com/dipto-kainin/), Not only it was a great hand on but with the provided resourcse you can also practice it at home, like me.
